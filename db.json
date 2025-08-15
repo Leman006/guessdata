@@ -67,8 +67,10 @@
           "colorCode": "G012",
           "images": [
             "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK",
-            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK",
-            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK"
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK-ALT2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK-ALT3",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-JBLK-ALTGHOST"
           ]
         },
         {
@@ -76,8 +78,10 @@
           "colorCode": "JBLK",
           "images": [
             "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1",
-            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1",
-            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1"
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1-ALT2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1-ALT3",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YK36WGHC2-G7P1-ALTGHOST"
           ]
         },
         {
@@ -205,7 +209,42 @@
       ],
       "code": "W5GK48Z3E22",
       "isNew": true,
-      "isOnSale": false
+      "isOnSale": false,
+      "colorVariants":[
+        {
+          "color": "Multi gold",
+          "colorCode": "MGLD",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-GLDL",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-GLDL-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-GLDL-ALT2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-GLDL-ALT3",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-GLDL-ALTGHOST"
+          ]
+        },
+        {
+          "color": "Black",
+          "colorCode": "G012",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-JBLK",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-JBLK-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-JBLK-ALT2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-JBLK-ALT3",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-JBLK-ALTGHOST"
+          ]
+        },
+        {
+          "color": "White",
+          "colorCode": "TWHT",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-F97H",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-F97H-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-F97H-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-F97H-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5GK48Z3E22-F97H-ALTGHOST"
+          ]
+        }
+      ]
     },
     {
       "id": 7,
@@ -263,7 +302,31 @@
       ],
       "code": "M5GL38WHAO2",
       "isNew": true,
-      "isOnSale": false
+      "isOnSale": false,
+      "colorVariants": [
+        {
+          "color": "Dark Blue",
+          "colorCode": "JBLK",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G7V2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G7V2-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G7V2-ALT2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G7V2-ALT3",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G7V2-ALTGHOST"
+          ]
+        },
+        {
+          "color": "Grey",
+          "colorCode": "GRAY",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G9L9",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G9L9-ALT1",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G9L9-ALT2",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G9L9-ALT3",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5GL38WHAO2-G9L9-ALTGHOST"
+          ]
+        }
+      ]
     },
     {
       "id": 9,
