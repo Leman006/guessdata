@@ -442,6 +442,60 @@
         "code": "M5YL11WHEI0",
         "isNew": true,
         "isOnSale": false
+      },
+      {
+        "id": 13,
+        "name": "Crepon single-breasted blazer",
+        "category": "Clothing",
+        "subcategory": "Coats And Jackets",
+        "gender": "Women",
+        "price": 184,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W5YN46WGHC2-JBLK",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YN46WGHC2-JBLK-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YN46WGHC2-JBLK-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YN46WGHC2-JBLK-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YN46WGHC2-JBLK-ALTGHOST"
+        ],
+        "description": "Single-breasted crepon blazer. Classic lapels. Long sleeves. Flap front pockets and breast welt pocket. Button fastening.",
+        "sizes": [ "XXS", "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL", "3XL", "4XL"
+        ],
+        "colors": [
+          "Black"
+        ],
+        "code": "W5YN46WGHC2",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 14,
+        "name": "Cropped faux-leather jacket",
+        "category": "Clothing",
+        "subcategory": "Coats And Jackets",
+        "gender": "Women",
+        "price": 208,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W5YL35WHGW0-F1AX",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YL35WHGW0-F1AX-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YL35WHGW0-F1AX-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YL35WHGW0-F1AX-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YL35WHGW0-F1AX-ALT4"
+        ],
+        "description": "Cropped faux-leather jacket. Classic collar. Long sleeves with shoulder epaulettes. Buttoned flap breast pockets. Button fastening.",
+        "sizes": [ "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "code": "W5YL35WHGW0",
+        "isNew": true,
+        "isOnSale": false
       }
   ],
   "users": [
