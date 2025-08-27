@@ -496,6 +496,61 @@
         "code": "W5YL35WHGW0",
         "isNew": true,
         "isOnSale": false
+      },
+      {
+        "id": 15,
+        "name": "Printed shirt",
+        "category": "Clothing",
+        "subcategory": "Shirts",
+        "gender": "Men",
+        "price": 81,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YH04WD4Z2-G018",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH04WD4Z2-G018-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH04WD4Z2-G018-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH04WD4Z2-G018-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH04WD4Z2-G018-ALTGHOST"
+        ],
+        "description": "Short-sleeved shirt in pure viscose. Classic shirt collar. All-over print. Front button fastening.",
+        "sizes": [
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White"
+        ],
+        "code": "M5YH04WD4Z2",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 16,
+        "name": "Geometric pattern knit shirt",
+        "category": "Clothing",
+        "subcategory": "Shirts",
+        "gender": "Men",
+        "price": 114,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YP23KCWP0-G1CA",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP23KCWP0-G1CA-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP23KCWP0-G1CA-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP23KCWP0-G1CA-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP23KCWP0-G1CA-ALTGHOST"
+        ],
+        "description": "SKnit shirt in a stretch viscose blend. Cuban collar and short sleeves. All over jacquard geometric motif. Button fastening.",
+        "sizes": ["XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Beige"
+        ],
+        "code": "M5YP23KCWP0",
+        "isNew": true,
+        "isOnSale": false
       }
   ],
   "users": [
