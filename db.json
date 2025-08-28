@@ -575,6 +575,93 @@
         "code": "HWJP9654210",
         "isNew": true,
         "isOnSale": false
+      },
+      {
+        "id": 18,
+        "name": "Noelle 4G logo crossbody",
+        "category": "Bags",
+        "subcategory": "Crossbody Bags",
+        "gender": "Women",
+        "price": 135,
+        "colorVariants": [
+        {
+          "color": "Beige",
+          "colorCode": "JBLK",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW-ALT4",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW-ALT6",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW-ALT7"
+          ]
+        },
+        {
+          "color": "Black",
+          "colorCode": "G012",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-CLO",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-CLO-ALT1",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-CLO-ALT4",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-CLO-ALT6"
+          ]
+        }
+      ],
+        "description": "Faux leather outer. Zip closure. Pale gold hardware.",
+        "sizes": ["T/U"
+        ],
+        "colors": [
+          "Beige", "Black"
+        ],
+        "code": "HWBG7879120",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 19,
+        "name": "Neda 4G Peony Logo Handbagy",
+        "category": "Bags",
+        "subcategory": "handbags",
+        "gender": "Women",
+        "price": 171,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWCP9654050-OFL",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWCP9654050-OFL-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWCP9654050-OFL-ALT4",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWCP9654050-OFL-ALT6",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWCP9654050-OFL-ALT7"
+        ],
+        "description": "Cotton-blend outer. Zip closure. Pale gold hardware.",
+        "sizes": ["T/U"
+        ],
+        "colors": [
+          "Cream"
+        ],
+        "code": "HWCP9654050",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 20,
+        "name": "Amorette Handbag",
+        "category": "Bags",
+        "subcategory": "handbags",
+        "gender": "Women",
+        "price": 182,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7898060-COG",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7898060-COG-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7898060-COG-ALT4",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7898060-COG-ALT6",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7898060-COG-ALT7"
+        ],
+        "description": "Faux leather outer. Zip closure. Pale gold hardware.",
+        "sizes": ["T/U"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "code": "HWBG7898060",
+        "isNew": true,
+        "isOnSale": false
       }
   ],
   "users": [
