@@ -726,6 +726,211 @@
         "code": "HWOS9655760",
         "isNew": true,
         "isOnSale": false
+      },
+      {
+        "id": 23,
+        "name": "Front logo print T-shirt",
+        "category": "Clothing",
+        "subcategory": "t-shirts",
+        "gender": "Women",
+        "price": 46,
+        "description": "Stretch cotton/Modal-blend T-shirt. Classic crew neck and short sleeves. Flattering slim fit. Front logo print with rhinestone embellishment.",
+        "sizes": [
+          "XS",
+          "S", "M", "L", "XL", "XXL"
+        ],
+        "colors": [
+          "Multi gold",
+          "Black",
+          "White"
+        ],
+        "code": "W5YI29K49A1",
+        "isNew": true,
+        "isOnSale": false,
+        "colorVariants":[
+          {
+            "color": "Pink",
+            "colorCode": "PNK",
+            "images": [
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G6I1",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G6I1-ALT1",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G6I1-ALT2",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G6I1-ALT3",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G6I1-ALTGHOST"
+            ]
+          },
+          {
+            "color": "White",
+            "colorCode": "TWHT",
+            "images": [
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G011",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G011-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G011-ALT2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G011-ALT3",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI29K49A1-G011-ALTGHOST"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Logo print T-shirt",
+        "category": "clothing",
+        "subcategory": "t-shirts",
+        "gender": "Women",
+        "price": 46,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W5YI41KA0Q1-G012",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI41KA0Q1-G012-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI41KA0Q1-G012-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI41KA0Q1-G012-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5YI41KA0Q1-G012-ALTGHOST"
+        ],
+        "description": "Stretch cotton jersey T-shirt. Classic crew neck and short sleeves. Flattering slim fit. Oversized front logo print. Rhinestone embellishment.",
+        "sizes": ["XS",
+          "S", "M", "L", "XL", "XXL"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "code": "W5YI41KA0Q1",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 25,
+        "name": "Logo print t-shirt",
+        "category": "clothing",
+        "subcategory": "t-shirts",
+        "gender": "Women",
+        "price": 45,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W5BI47KCTX1-H91Q",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5BI47KCTX1-H91Q-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5BI47KCTX1-H91Q-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W5BI47KCTX1-H91Q-ALT3"
+        ],
+        "description": "Jersey T-Shirt. Slim Fit. Short Sleeve. Crew Neck. Logo print. Slim fit.",
+        "sizes": ["XS",
+          "S", "M", "L", "XL", "XXL"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "code": "W5BI47KCTX1",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 26,
+        "name": "Printed linen-blend shirt",
+        "category": "Clothing",
+        "subcategory": "Shirts",
+        "gender": "Men",
+        "price": 81,
+        "description": "Shirt in a viscose/linen blend. Classic shirt collar and short sleeves. All-over print. Front button fastening.",
+        "sizes": [
+          "XS",
+          "S", "M", "L", "XL", "XXL"
+        ],
+        "colors": [
+          "Light Blue",
+          "Grey"
+        ],
+        "code": "M5YH51WH350",
+        "isNew": true,
+        "isOnSale": false,
+        "colorVariants": [
+          {
+            "color": "Blue",
+            "colorCode": "JBLK",
+            "images": [
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P7XS",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P7XS-ALT1",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P7XS-ALT2",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P7XS-ALT3",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P7XS-ALTGHOST"
+            ]
+          },
+          {
+            "color": "Brown",
+            "colorCode": "BRWN",
+            "images": [
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P1MP",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P1MP-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P1MP-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P1MP-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YH51WH350-P1MP-ALTGHOST"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Knit full-placket polo shirt",
+        "category": "clothing",
+        "subcategory": "Shirts",
+        "gender": "Women",
+        "price": 114,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YP20KCWN2-G1EC",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP20KCWN2-G1EC-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP20KCWN2-G1EC-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP20KCWN2-G1EC-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP20KCWN2-G1EC-ALTGHOST"
+        ],
+        "description": "Full-placket polo shirt in stretch knit fabric. All-over chevron knit. Classic polo collar and short sleeves. Button fastening.",
+        "sizes": ["XS",
+          "S", "M", "L", "XL", "XXL"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "code": "M5YP20KCWN2",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 28,
+        "name": "Slim-fit polo shirt",
+        "category": "Clothing",
+        "subcategory": "t-shirts and polo shirts",
+        "gender": "Men",
+        "price": 58,
+        "description": "Short-sleeved polo shirt in stretch cotton jersey. Striped polo collar. Flattering slim fit. Triangle logo on the chest. Button fastening.",
+        "sizes": ["S", "M", "L", "XL", "XXL"
+        ],
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "code": "M5YP66J1314",
+        "isNew": true,
+        "isOnSale": false,
+        "colorVariants": [
+          {
+            "color": "Blue",
+            "colorCode": "JBLK",
+            "images": [
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G7EG",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G7EG-ALT1",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G7EG-ALT2",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G7EG-ALT3",
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G7EG-ALTGHOST"
+            ]
+          },
+          {
+            "color": "White",
+            "colorCode": "TWHT",
+            "images": [
+              "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G011",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G011-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G011-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G011-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YP66J1314-G011-ALTGHOST"
+            ]
+          }
+        ]
       }
   ],
   "users": [
