@@ -588,7 +588,7 @@
           "color": "Beige",
           "colorCode": "JBLK",
           "images": [
-            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW2",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW",
             "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW-ALT4",
             "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW-ALT6",
             "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWBG7879120-LGW-ALT7"
@@ -660,6 +660,70 @@
           "Brown"
         ],
         "code": "HWBG7898060",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 21,
+        "name": "Irene Raffia Crossbody",
+        "category": "Bags",
+        "subcategory": "Crossbody Bags",
+        "gender": "Women",
+        "price": 171,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWG8685210-NTC",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWWG8685210-NTC-ALT4",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWWG8685210-NTC-ALT6",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWWG8685210-NTC-ALT7"
+        ],
+        "description": "Raffia outer. Flap and double-button closure. Pale gold hardware.",
+        "sizes": ["T/U"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "code": "HWWG8685210",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 22,
+        "name": "Queensland 4G Logo Handbag",
+        "category": "Bags",
+        "subcategory": "handbags",
+        "gender": "Women",
+        "price": 159,
+        "colorVariants": [
+        {
+          "color": "Brown",
+          "colorCode": "JBLK",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWOS9655760-LTL",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-LTL-ALT1",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-LTL-ALT4",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-LTL-ALT6",
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-LTL-ALT7"
+          ]
+        },
+        {
+          "color": "White",
+          "colorCode": "TWHT",
+          "images": [
+            "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-DVL",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-DVL-ALT1",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-DVL-ALT2",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-DVL-ALT4",
+        "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/HWOS9655760-DVL-ALT6"
+          ]
+        }
+      ],
+        "description": "Faux leather outer. Zip closure. Pale gold hardware.",
+        "sizes": ["T/U"
+        ],
+        "colors": [
+          "Brown", "White"
+        ],
+        "code": "HWOS9655760",
         "isNew": true,
         "isOnSale": false
       }
