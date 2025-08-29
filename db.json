@@ -870,7 +870,7 @@
         "name": "Knit full-placket polo shirt",
         "category": "clothing",
         "subcategory": "Shirts",
-        "gender": "Women",
+        "gender": "Men",
         "price": 114,
         "images": [
           "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YP20KCWN2-G1EC",
@@ -931,6 +931,63 @@
             ]
           }
         ]
+      },
+      {
+        "id": 29,
+        "name": "Embroidered Patch Varsity Jacket",
+        "category": "Clothing",
+        "subcategory": "Coats And Jackets",
+        "gender": "Men",
+        "price": 183,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/M5YL15WHAA2-G054",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YL15WHAA2-G054-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YL15WHAA2-G054-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YL15WHAA2-G054-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/M5YL15WHAA2-G054-ALT4"
+        ],
+        "description": "Nylon varsity jacket. Logo patches at front and back. Striped ribbed-knit trim, side slip pockets. Long sleeves and relaxed fit. Front button closure.",
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White"
+        ],
+        "code": "M5YL15WHAA2",
+        "isNew": true,
+        "isOnSale": false
+      },
+      {
+        "id": 30,
+        "name": "The Perfect Vest",
+        "category": "Clothing",
+        "subcategory": "Coats And Jackets",
+        "gender": "Women",
+        "price": 114,
+        "images": [
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/W4PN63WGHC0-G012",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W4PN63WGHC0-G012-ALT1",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W4PN63WGHC0-G012-ALT2",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W4PN63WGHC0-G012-ALT3",
+          "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,dpr_1.4,fl_advanced_resize,w_576,c_scale/v1/EU/Style/ECOMM/W4PN63WGHC0-G012-ALTGHOST"
+        ],
+        "description": "Blazer vest. V neck, sleeveless. Slim fit. Buttons fastening.",
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White"
+        ],
+        "code": "W4PN63WGHC0",
+        "isNew": true,
+        "isOnSale": false
       }
   ],
   "users": [
