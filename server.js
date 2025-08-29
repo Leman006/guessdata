@@ -3,9 +3,11 @@ const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
- 
+
 server.use(middlewares)
 server.use('', router)
-server.listen(process.env.PORT || 1000 || 6000, () => {
-  console.log('JSON Server is running')
+
+const PORT = process.env.PORT || 6000; // ✅ Render даст свой порт, локально будет 6000
+server.listen(PORT, () => {
+  console.log(`JSON Server is running on port ${PORT}`)
 })
